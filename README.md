@@ -15,3 +15,4 @@ t_value:<br>
 .......<br>
 
 # 举例
+![example](https://github.com/yuanyesjtu/bag_question/blob/master/example.png)
